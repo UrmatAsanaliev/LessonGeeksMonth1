@@ -7,17 +7,9 @@ void main() {
 
     List<String> fruits = ["apple", "banana", "pineapple", "orange", "cherry", "kiwi"];
     List<String> cities = ["Osh", "Bishkek", "Manas", "Moscow", "Barcelona", "Astana", "Almata"];
-    List<String> cities2 = ["Osh", "Bishkek", "Manas", "Moscow", "Barcelona", "Astana", "Almata"];
-    List<String> cities5 = ["Osh", "Bishkek", "Manas", "Moscow", "Barcelona", "Astana", "Almata"];
-    List<String> cities3 = ["Osh", "Bishkek", "Manas", "Moscow", "Barcelona", "Astana", "Almata"];
-    List<String> cities4 = ["Osh", "Bishkek", "Manas", "Moscow", "Barcelona", "Astana", "Almata"];
-
+   
     printLists(fruits);
     printLists(cities);
-    printLists(cities2);
-    printLists(cities3);
-    printLists(cities4);
-    printLists(cities5);
 
 }
 
